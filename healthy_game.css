@@ -1,0 +1,50 @@
+body{
+    background-image: url("images/AIST.jpg");
+    background-repeat: repeat;
+    padding-top: 25px;
+}
+button{
+    height: 45px;
+    width: 130px;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: normal;
+    margin: 4.5px;
+}
+progress {
+  width: 300px;
+  background-color: #f3f3f3;
+}
+#content{
+    background-color: #F9E79F;
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 60px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+#life_bar{
+  margin: 0 auto;
+  padding-left: 50px;
+}
+#character{
+  margin: 0 auto;
+  padding-top: 15px;
+}
+#controls{
+  margin: 0 auto;
+  padding-left: 53px;
+}
+#healthy{
+  background-color: #1EF710;
+  border: 1px solid #21D708;
+  color: #fefefe;
+  opacity: 1;
+}
+#unhealthy{
+  background-color: #FE1818;
+  border: 1px solid #F70101;
+  color: #fefefe;
+  opacity: 1;
+}
